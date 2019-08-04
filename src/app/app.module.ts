@@ -6,13 +6,21 @@ import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { MeanComponent } from './mean/mean.component';
+import { VedioComponent } from './vedio/vedio.component';
+import { StudentComponent } from './student/student.component';
+import { NotesComponent } from './notes/notes.component';
+import { PdfComponent } from './pdf/pdf.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DashboardComponent,
     NavbarComponent,
-    MeanComponent
+    MeanComponent,
+    VedioComponent,
+    StudentComponent,
+    NotesComponent,
+    PdfComponent
   ],
   imports: [
     BrowserModule,
