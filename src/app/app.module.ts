@@ -10,6 +10,7 @@ import { VedioComponent } from './vedio/vedio.component';
 import { StudentComponent } from './student/student.component';
 import { NotesComponent } from './notes/notes.component';
 import { PdfComponent } from './pdf/pdf.component';
+import { CompanyprofileComponent } from './companyprofile/companyprofile.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { PdfComponent } from './pdf/pdf.component';
     VedioComponent,
     StudentComponent,
     NotesComponent,
-    PdfComponent
+    PdfComponent,
+    CompanyprofileComponent
   ],
   imports: [
     BrowserModule,

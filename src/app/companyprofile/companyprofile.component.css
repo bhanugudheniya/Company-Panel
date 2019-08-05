@@ -1,0 +1,32 @@
+.img {
+    vertical-align: middle;
+    border-style: none;
+  border-radius: 60px;
+  margin: -80px;
+height:200px;
+margin-top: 2%;
+  }
+  .form-group{
+      text-align: center;
+      
+      
+  }
+ .btn btn-primary:hover{
+ border-radius: 50%;
+ text-decoration: none;
+ display: inline-block;
+ margin: 4px 2px;
+ cursor: pointer;
+
+ } 
+ /* .input:hover{
+ background-color: rgb(134, 81, 12);
+ } */
+ /* .form-group:hover{
+ box-shadow: 20px;
+ } */
+ .cp{
+   text-align: center;
+   
+   
+ }
